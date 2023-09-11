@@ -1,0 +1,17 @@
+{
+  "name": "be-task-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "be-task-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node be-task-1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  }
+}
