@@ -18,7 +18,7 @@ app.get('/api', (req, res) => {
     current_day: currentDay,
     utc_time: utcTime,
     track,
-    github_file_url: 'https://github.com/qudosabdu/be-task-1.git/main/file_name.ext',
+    github_file_url: 'https://github.com/qudosabdu/be-task-1/blob/main/be-task-1.js',
     github_repo_url: 'https://github.com/qudosabdu/be-task-1',
     status_code: 200
   };
